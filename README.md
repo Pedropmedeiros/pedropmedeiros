@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá, Eu sou o Pedro 👋
+#### Atualmente estou estudando Web development (HTML, CSS e JavaScript), e também desenvolvo pequenos projetos em C++ com Arduino.
+
+
+
 
 <!--
 **Pedropmedeiros/pedropmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
