@@ -1,5 +1,6 @@
-# Olá, Eu sou o Pedro 👋
-#### Atualmente estou estudando Web development (HTML, CSS e JavaScript), e também desenvolvo pequenos projetos em C++ com Arduino.
+# Hey, I'm Pedro 👋
+### Production Engineering student, focused on Data and Artificial Intelligence.
+#### Becoming AI Engineering (or something like that).
 
 
 
